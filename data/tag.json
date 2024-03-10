@@ -1,18 +1,36 @@
 {
+  "需密码": {
+    "createdAt": "2024-03-10T16:49:44.460Z",
+    "color": "#b6a8d6",
+    "desc": "",
+    "isInner": false
+  },
+  "仅内网": {
+    "createdAt": "2024-03-10T16:48:57.337Z",
+    "color": "#00c4f5",
+    "desc": "",
+    "isInner": false
+  },
+  "IPV6": {
+    "createdAt": "2024-03-10T16:48:17.863Z",
+    "color": "#f5ed00",
+    "desc": "仅支持IPV6",
+    "isInner": false
+  },
   "中文": {
-    "color": "#2db7f5",
+    "color": "#f52e2e",
     "createdAt": "2018-01-25T07:56:31.372Z",
     "desc": "系统内置不可删除",
     "isInner": true
   },
   "英文": {
-    "color": "#f50",
+    "color": "#ee86d3",
     "createdAt": "2018-01-25T07:56:31.372Z",
     "desc": "系统内置不可删除",
     "isInner": true
   },
   "Github": {
-    "color": "#108ee9",
+    "color": "#808589",
     "createdAt": "2018-01-25T07:56:31.372Z",
     "desc": "系统内置不可删除",
     "isInner": true
