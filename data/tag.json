@@ -1,7 +1,13 @@
 {
+  "需魔法": {
+    "createdAt": "2024-03-10T17:10:16.088Z",
+    "color": "#c0f500",
+    "desc": "",
+    "isInner": false
+  },
   "需密码": {
     "createdAt": "2024-03-10T16:49:44.460Z",
-    "color": "#b6a8d6",
+    "color": "#bbb6c9",
     "desc": "",
     "isInner": false
   },
@@ -11,7 +17,7 @@
     "desc": "",
     "isInner": false
   },
-  "IPV6": {
+  "仅IPV6": {
     "createdAt": "2024-03-10T16:48:17.863Z",
     "color": "#f5ed00",
     "desc": "仅支持IPV6",
