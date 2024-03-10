@@ -1,16 +1,16 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
+  "favicon": "https://cdn.jsdelivr.net/gh/czknife/nav@image/nav-1710076383867-nvlogo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "random",
+  "loading": "loading2",
   "showGithub": false,
   "title": "刀の导航网站",
   "description": "发现导航 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
-  "theme": "Side",
+  "keywords": "导航,实用工具,学习资源",
+  "theme": "Sim",
   "appTheme": "App",
   "headerContent": "",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2024-present kfe.icu, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站，Copyright © 2024-present kfe.icu, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
@@ -20,17 +20,11 @@
       "url": "",
       "width": null,
       "height": null
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
-      "url": "",
-      "width": null,
-      "height": null
     }
   ],
-  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
-  "simThemeHeight": 350,
-  "simThemeAutoplay": true,
+  "simThemeDesc": "",
+  "simThemeHeight": 220,
+  "simThemeAutoplay": false,
   "sideThemeImages": [
     {
       "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
@@ -57,6 +51,6 @@
     }
   ],
   "showLanguage": false,
-  "showRate": true,
+  "showRate": false,
   "mirrorList": []
 }
