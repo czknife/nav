@@ -1,11 +1,17 @@
 {
-  "需密码": {
+  "AI": {
+    "createdAt": "2024-03-11T10:47:13.722Z",
+    "color": "#080808",
+    "desc": "",
+    "isInner": false
+  },
+  "密码": {
     "createdAt": "2024-03-10T16:49:44.460Z",
     "color": "#b6a8d6",
     "desc": "",
     "isInner": false
   },
-  "仅内网": {
+  "内网": {
     "createdAt": "2024-03-10T16:48:57.337Z",
     "color": "#00c4f5",
     "desc": "",
