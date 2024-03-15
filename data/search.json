@@ -18,7 +18,7 @@
     "name": "Google",
     "url": "https://www.google.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
-    "blocked": false,
+    "blocked": true,
     "isInner": false
   },
   {
@@ -26,7 +26,8 @@
     "url": "https://cn.bing.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "必应一下"
   },
   {
     "name": "GitHub",
@@ -41,7 +42,8 @@
     "url": "https://www.zhihu.com/search?type=content&q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/zhihu.svg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "知乎一下"
   },
   {
     "name": "豆瓣",
