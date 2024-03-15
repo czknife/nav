@@ -6,7 +6,7 @@
   "showGithub": false,
   "title": "刀の导航网站",
   "description": "发现导航 - 精选实用导航网站",
-  "keywords": "导航,实用工具,学习资源",
+  "keywords": " ",
   "theme": "Sim",
   "appTheme": "App",
   "headerContent": "",
@@ -33,7 +33,7 @@
       "height": null
     }
   ],
-  "sideThemeHeight": 223,
+  "sideThemeHeight": 100,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
@@ -45,6 +45,6 @@
     }
   ],
   "showLanguage": false,
-  "showRate": false,
+  "showRate": true,
   "mirrorList": []
 }
