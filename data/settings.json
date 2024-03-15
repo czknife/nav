@@ -23,7 +23,7 @@
     }
   ],
   "simThemeDesc": "",
-  "simThemeHeight": 124,
+  "simThemeHeight": 160,
   "simThemeAutoplay": false,
   "sideThemeImages": [
     {
@@ -33,7 +33,7 @@
       "height": null
     }
   ],
-  "sideThemeHeight": 223,
+  "sideThemeHeight": 200,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
@@ -45,6 +45,6 @@
     }
   ],
   "showLanguage": false,
-  "showRate": true,
+  "showRate": false,
   "mirrorList": []
 }
